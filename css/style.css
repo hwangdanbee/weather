@@ -45,19 +45,16 @@ a{text-decoration: none;}
 
 
 
-
-@media (max-width:1200px){
+@media (max-width: 1200px){
     #user_select, #weather{width: 100%;}
 }
-@media (max-width:991px){
-    #weather ul li{width: calc(50%- 20px);}
+@media (max-width: 991px){
+    #weather ul li{width: calc(50% - 20px);}
 }
-@media (max-width:567px){
-    #weather ul li{width: calc(100%- 20px);}
+@media (max-width: 567px){
+    #weather ul li{width: calc(100% - 20px);}
     .search{width: 320px;}
-    
 }
-
 
 
 
